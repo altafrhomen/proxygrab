@@ -9,7 +9,7 @@ Proxy collector and parser
   
 **setup to work with linux and mac** 
 
-run the ` install.py` it will install and copy the files to env path.
+run the `python3 install.py` it will install and copy the files to env path.
 
 **setup to work with windows**
 
