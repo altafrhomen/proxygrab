@@ -21,7 +21,11 @@ Double click the proxygrab.exe
 this will execute with all default settings. if you want to give arguments, then
 go to cmd and change directory to where proxygrab.exe stored. then hit
 
-        proxygrab.exe -o filename
+	proxygrab.exe -o filename
 	proxygrab.exe -h
-	
-**Default filename:randompool**
+
+
+proxygrab --help or proxygrab -h
+
+check help for more info
+*Default filename:randompool*
