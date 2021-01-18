@@ -13,13 +13,10 @@ run the `python3 install.py` it will install and copy the files to env path.
 
 **setup to work with windows**
 
-After downloading open `cmd` and go to the **file location** using `cd`
-if file is in the downloads. then hit
-
 Double click the proxygrab.exe
 
-this will execute with all default settings. if you want to give arguments, then
-go to cmd and change directory to where proxygrab.exe stored. then hit
+this will execute with default settings. if you want to give arguments, then
+go to cmd and change directory to where proxygrab.exe stored. then hit with arguments.
 
 	proxygrab.exe -o filename
 	proxygrab.exe -h
