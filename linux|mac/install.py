@@ -1,6 +1,6 @@
 import os
 os.system("pip3 install proxyscrape")
-os.system("mv proxygrab.py proxygrab")
+os.system("cp proxygrab.py proxygrab")
 os.system("chmod+x proxygrab")
 os.system("mv proxygrab /usr/bin/")
 print("file copied")
