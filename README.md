@@ -26,4 +26,4 @@ proxygrab --help or proxygrab -h
 
 check help for more info
 
-*Default filename:randompool*
+*Default filename:proxylist*
